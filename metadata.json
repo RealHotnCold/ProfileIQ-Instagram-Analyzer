@@ -1,0 +1,8 @@
+{
+  "name": "ProfileIQ Intelligence Engine",
+  "description": "Evidence-backed Instagram business intelligence engine powered by server-side Gemini Flash and multi-source public web research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
